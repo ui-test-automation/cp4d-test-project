@@ -1,5 +1,5 @@
 
-name: Removing lock file
+name: "Removing lock file"
 
 on:
   schedule:
@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
   
     steps:
+      - uses: actions/checkout@v1
       - name: Remove File
         uses: JesseTG/rm@v1.0.0
         with:
