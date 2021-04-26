@@ -1,9 +1,1 @@
-{
-  "elnino": [
-    "data_asset.Elninocsv-r17f",
-    "data_asset.Elninocsv"
-  ],
-  "covid19": [
-    "data_asset.covid19csv"
-  ]
-}
+{}
