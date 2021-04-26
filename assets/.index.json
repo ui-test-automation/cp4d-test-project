@@ -1,1 +1,6 @@
-{}
+{
+  "elnino": [
+    "data_asset.Elninocsv",
+    "data_asset.Elninocsv-r17f"
+  ]
+}
