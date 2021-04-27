@@ -8,7 +8,8 @@
     "asset_id": "data_asset.watsonlogopng",
     "asset_attributes": [
       "data_asset"
-    ]
+    ],
+    "description": "This is an image"
   },
   "entity": {
     "data_asset": {
