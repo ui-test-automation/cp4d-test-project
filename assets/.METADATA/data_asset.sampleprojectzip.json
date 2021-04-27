@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "sample-project.zip",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-04-27T14:20:14Z",
+    "created": 1619533214991,
+    "asset_id": "data_asset.sampleprojectzip",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/zip"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "sample-project.zip",
+      "mime": "application/zip",
+      "object_key": "data_asset/sample-project.zip",
+      "object_key_is_read_only": true,
+      "created_at": "2021-04-27T14:20:15Z",
+      "id": "a77321fd-88c6-4611-8576-f05658428a88",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
