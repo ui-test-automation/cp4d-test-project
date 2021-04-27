@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "PGS",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "created_at": "2021-04-27T15:16:23Z",
+    "created": 1619536583861,
+    "asset_id": "connection.099ecd46-8051-4f65-95f0-65bcfc81c00a",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "048ed1bf-516c-46f0-ae90-fa3349d8bc1c",
+      "context": "source,target",
+      "properties": {
+        "database": "ibmclouddb",
+        "password": "{wdpaes256}gAHGVj7904EY1t+TEKrJhBNY6Prf089axCTagWMaetb1vh0255wkKXj3drrIvPiW+SWbzqA0QinXvIZ7TSiJi6OM6BIydMGvQaHzlOWrVBnfuDF8WXZLjW6iconm2bLU",
+        "port": 31520,
+        "host": "8f8b9cd3-4864-4ea1-a5bb-0cbc7d33fdc9.b2b5a92ee2df47d58bad0fa448c15585.databases.appdomain.cloud",
+        "username": "ibm_cloud_fc6bb45d_a0c8_4435_acbd_b8ec5c616723"
+      },
+      "flags": []
+    }
+  },
+  "attachments": []
+}
