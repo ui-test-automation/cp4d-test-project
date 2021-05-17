@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "name": "financial_sample-1.xlsx",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-05-17T20:12:27Z",
+    "created": 1621282347358,
+    "asset_id": "data_asset.financialsample1xlsx",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "financial_sample-1.xlsx",
+      "mime": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "object_key": "data_asset/financial_sample-1.xlsx",
+      "object_key_is_read_only": true,
+      "created_at": "2021-05-17T20:12:27Z",
+      "id": "25db219d-5629-4e54-b890-87c51a9000f6",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
