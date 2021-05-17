@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "Elnino.csv",
+    "name": "watson.jpg",
     "asset_type": "data_asset",
     "origin_country": "us",
-    "created_at": "2021-04-26T15:17:47Z",
-    "created": 1619450267274,
-    "asset_id": "data_asset.Elninocsv",
+    "created_at": "2021-04-27T14:20:24Z",
+    "created": 1619533224311,
+    "asset_id": "data_asset.watsonjpg",
     "asset_attributes": [
       "data_asset"
     ]
@@ -13,18 +13,18 @@
   "entity": {
     "data_asset": {
       "dataset": false,
-      "mime_type": "text/csv"
+      "mime_type": "image/jpeg"
     }
   },
   "attachments": [
     {
       "asset_type": "data_asset",
-      "name": "Elnino.csv",
-      "mime": "text/csv",
-      "object_key": "data_asset/Elnino.csv",
+      "name": "watson.jpg",
+      "mime": "image/jpeg",
+      "object_key": "data_asset/watson.jpg",
       "object_key_is_read_only": true,
-      "created_at": "2021-04-26T15:17:47Z",
-      "id": "478f1bb8-0dcf-43d6-8881-1e92051fd10e",
+      "created_at": "2021-04-27T14:20:24Z",
+      "id": "3ed7d0ef-968d-4033-893a-92ef8160142d",
       "is_managed": false,
       "is_referenced": true,
       "is_remote": false

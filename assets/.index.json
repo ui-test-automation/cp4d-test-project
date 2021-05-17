@@ -1,1 +1,12 @@
-{}
+{
+  "elnino": [
+    "data_asset.Elninocsv",
+    "data_asset.Elninocsv-r17f"
+  ],
+  "covid19": [
+    "data_asset.covid19csv"
+  ],
+  "dashboard": [
+    "data_asset.dashboardjson"
+  ]
+}

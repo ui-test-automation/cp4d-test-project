@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "asset_type": "connection",
+    "name": "DB2",
+    "origin_country": "us",
+    "rov": {
+      "mode": 0
+    },
+    "created_at": "2021-05-10T16:00:32Z",
+    "created": 1620662432389,
+    "asset_id": "connection.8c625988-cbb2-4ffb-b365-fdeba20965e6",
+    "asset_attributes": [
+      "connection"
+    ]
+  },
+  "entity": {
+    "connection": {
+      "datasource_type": "cfdcb449-1204-44ba-baa6-9a8a878e6aa7",
+      "context": "source,target",
+      "properties": {
+        "database": "BLUDB",
+        "port": 50001,
+        "host": "db2w-anzloon.us-south.db2w.cloud.ibm.com",
+        "ssl": true
+      },
+      "flags": [
+        "personal_credentials"
+      ]
+    }
+  },
+  "attachments": []
+}
