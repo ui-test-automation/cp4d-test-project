@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "name": "dashdash",
+    "description": "",
+    "asset_type": "dashboard",
+    "origin_country": "us",
+    "created_at": "2021-06-21T22:13:57Z",
+    "created": 1624313637950,
+    "asset_id": "dashboard.dashdash",
+    "asset_attributes": [
+      "dashboard"
+    ]
+  },
+  "entity": {
+    "dashboard": {
+      "share": {
+        "shared": false,
+        "token": "dc8f8e270f9f01cf1d93096830fa8c2664e68876f509a8f9fa42b0bd7b818d8d39d0d07d7e815331f0990267fc3b488ccb"
+      },
+      "associated_service": {
+        "guid": "99999999-9999-9999-9999-999999999999",
+        "name": "cde-instance",
+        "type": "dashboard",
+        "credentials": {
+          "client_id": "cloud_private",
+          "client_secret": "cloud_private",
+          "api_endpoint_url": "https://localhost:9445/daas/"
+        }
+      },
+      "lockedBy": {
+        "user": {
+          "id": "1000331003",
+          "user_name": "nour",
+          "role": "admin"
+        }
+      }
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "dashboard",
+      "name": "referenced",
+      "description": "referenced",
+      "object_key": "dashboard/referenced_dashboard.dashdash",
+      "object_key_is_read_only": true,
+      "created_at": "2021-06-21T22:14:37Z",
+      "id": "cb98b78e-bfa0-4ce4-9c8a-895c26b09bd3",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "name": "reg",
+    "description": "",
+    "asset_type": "dashboard",
+    "origin_country": "us",
+    "created_at": "2021-06-24T14:18:05Z",
+    "created": 1624544285898,
+    "asset_id": "dashboard.cea5f400-8d23-45c7-8412-39b8d8c6d8d0",
+    "asset_attributes": [
+      "dashboard"
+    ]
+  },
+  "entity": {
+    "dashboard": {
+      "share": {
+        "shared": false,
+        "token": "9ecae6196caf6dfa12ad746830fa8c2664e68876f509a8f9fa42b0bd7b818d8d39d0d07d7e815331f0990267fc3b488ccb"
+      },
+      "associated_service": {
+        "guid": "99999999-9999-9999-9999-999999999999",
+        "name": "cde-instance",
+        "type": "dashboard",
+        "credentials": {
+          "client_id": "Y2xvdWRfcHJpdmF0ZQo=",
+          "client_secret": "Y2xvdWRfcHJpdmF0ZQo=",
+          "api_endpoint_url": "/daas/"
+        }
+      },
+      "lockedBy": {
+        "user": {
+          "id": "1000331003",
+          "state": "ACTIVE",
+          "type": "user",
+          "user_name": "nour",
+          "role": "admin"
+        }
+      }
+    }
+  },
+  "attachments": []
+}

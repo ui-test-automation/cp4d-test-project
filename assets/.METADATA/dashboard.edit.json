@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "name": "edit",
+    "description": "",
+    "asset_type": "dashboard",
+    "origin_country": "us",
+    "created_at": "2021-06-21T20:09:54Z",
+    "created": 1624306194582,
+    "asset_id": "dashboard.edit",
+    "asset_attributes": [
+      "dashboard"
+    ]
+  },
+  "entity": {
+    "dashboard": {
+      "share": {
+        "shared": false,
+        "token": "9b8de2002af73cda00ae2f6830fa8c2664e68876f509a8f9fa42b0bd7b818d8d39d0d07d7e815331f0990267fc3b488ccb"
+      },
+      "associated_service": {
+        "guid": "99999999-9999-9999-9999-999999999999",
+        "name": "cde-instance",
+        "type": "dashboard",
+        "credentials": {
+          "client_id": "cloud_private",
+          "client_secret": "cloud_private",
+          "api_endpoint_url": "https://localhost:9445/daas/"
+        }
+      },
+      "lockedBy": {
+        "user": {
+          "id": "1000331003",
+          "user_name": "nour",
+          "role": "admin"
+        }
+      }
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "dashboard",
+      "name": "referenced",
+      "description": "referenced",
+      "object_key": "dashboard/referenced_dashboard.edit",
+      "object_key_is_read_only": true,
+      "created_at": "2021-06-21T20:11:25Z",
+      "id": "b2b0f29f-6805-41b2-af4c-ecf657f1de08",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    },
+    {
+      "asset_type": "dashboard",
+      "name": "referenced",
+      "description": "referenced",
+      "object_key": "dashboard/referenced_dashboard.edit",
+      "object_key_is_read_only": true,
+      "created_at": "2021-06-21T20:26:25Z",
+      "id": "c3bb251a-afb5-460c-b07b-642d7f375181",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    },
+    {
+      "asset_type": "dashboard",
+      "name": "referenced",
+      "description": "referenced",
+      "object_key": "dashboard/referenced_dashboard.edit",
+      "object_key_is_read_only": true,
+      "created_at": "2021-06-21T21:40:28Z",
+      "id": "e56ebb28-dcba-43bd-ae88-1d5d2a26480f",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    },
+    {
+      "asset_type": "dashboard",
+      "name": "referenced",
+      "description": "referenced",
+      "object_key": "dashboard/referenced_dashboard.edit",
+      "object_key_is_read_only": true,
+      "created_at": "2021-06-21T21:55:45Z",
+      "id": "5da2c612-2b61-46cd-aa66-3a10fb1e4367",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    },
+    {
+      "asset_type": "dashboard",
+      "name": "referenced",
+      "description": "referenced",
+      "object_key": "dashboard/referenced_dashboard.edit",
+      "object_key_is_read_only": true,
+      "created_at": "2021-06-21T22:00:55Z",
+      "id": "7bebbdcd-c869-44e9-afa6-63864e679be5",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    },
+    {
+      "asset_type": "dashboard",
+      "name": "referenced",
+      "description": "referenced",
+      "object_key": "dashboard/referenced_dashboard.edit",
+      "object_key_is_read_only": true,
+      "created_at": "2021-06-21T22:02:13Z",
+      "id": "c7c46203-7bb1-4bbb-9de9-6eed7a0e9297",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "name": "dealsData.csv",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "created_at": "2021-06-22T15:53:45Z",
+    "created": 1624377225211,
+    "asset_id": "data_asset.dealsDatacsv",
+    "asset_attributes": [
+      "data_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "text/csv",
+      "schema": {
+        "etag": "W/\"22a219-sUOLhCy7q6YwkBSGpH11Qjj+ysI\"",
+        "fields": [
+          {
+            "name": "NONAME_COL1",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "dateUpdated",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "timeUpdated",
+            "type": "datetime",
+            "format": "default"
+          },
+          {
+            "name": "brand",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "categories",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "colors",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "isSale",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "offer",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "dealsData.csv",
+      "mime": "text/csv",
+      "object_key": "data_asset/dealsData.csv",
+      "object_key_is_read_only": true,
+      "created_at": "2021-06-22T15:53:46Z",
+      "id": "f45ccd70-52d7-46ae-bad2-37659a280df1",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
